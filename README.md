@@ -1,6 +1,6 @@
 # 🎓 Ingenieria
 
-![Estado](https://img.shields.io/badge/%F0%9F%93%9D_Planificaci%C3%B3n-blue) ![Licencia](https://img.shields.io/badge/Licencia-CC_BY_NC_ND_4.0-blue) ![Actualización](https://img.shields.io/badge/🔄_Última_actividad-2025--05--18 22:23-lightgrey)
+![Estado](https://img.shields.io/badge/%F0%9F%93%9D_Planificaci%C3%B3n-blue) ![Licencia](https://img.shields.io/badge/Licencia-CC_BY_NC_ND_4.0-blue) ![Actualización](https://img.shields.io/badge/🔄_Última_actividad-2025--05--18 22:26-lightgrey)
 
 ## 📋 Descripción
 
@@ -49,4 +49,4 @@ Este trabajo demuestra:
 ---
 📅 **Historial de Versiones**
 🔹 Versión actual: 1.0.0
-🔹 Última actualización: 2025-05-18 22:23
+🔹 Última actualización: 2025-05-18 22:26
